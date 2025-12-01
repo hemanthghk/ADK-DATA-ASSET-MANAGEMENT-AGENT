@@ -506,11 +506,6 @@ This project was submitted to the **5-Day AI Agents Intensive - Capstone Project
 - Ollama for local embedding models
 
 ---
-
-**Built with ❤️ using Google ADK, PostgreSQL, and Ollama**
-
----
-
 ## 📞 Support
 
 Having issues? Check the[setup_guide.md](setup_guide.md) or open an [issue](https://github.com/yourusername/DAM-Agent-ADK/issues).
